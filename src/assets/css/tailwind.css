@@ -1,0 +1,11 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@tailwind @screens;
+
+body {
+    background-color: lightgreen;
+}
